@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MurrZillka/MurrZillka.github.io.git/static/css/main.5c40b148.css",
+    "main.js": "/MurrZillka/MurrZillka.github.io.git/static/js/main.b6ebdd66.js",
+    "index.html": "/MurrZillka/MurrZillka.github.io.git/index.html",
+    "main.5c40b148.css.map": "/MurrZillka/MurrZillka.github.io.git/static/css/main.5c40b148.css.map",
+    "main.b6ebdd66.js.map": "/MurrZillka/MurrZillka.github.io.git/static/js/main.b6ebdd66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c40b148.css",
+    "static/js/main.b6ebdd66.js"
+  ]
+}
